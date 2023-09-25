@@ -1,0 +1,138 @@
+/* /* *{
+    width: 0;
+    height: 0;
+} */
+
+
+header{
+    width: 100vw;
+    height: 10vh;  
+    background-color: rgb(74, 21, 75);  
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+}
+
+.div1header{
+    width: 20%;
+    height: 80%;
+    margin-left: 10px;
+}
+
+.link1header{
+    width: 100px;
+    height: 100px;    
+}
+
+.img1header{
+    width: 300px;
+    height: 100px;
+}
+
+.div2header{
+    width: 3%;
+    height: 34%;
+    margin-right: 30px;
+}
+
+.link2header{
+    width: 100%;
+    height: 100%;
+  
+}
+
+.img2header{
+    width: 40px;
+    height: 40px;
+}
+
+
+main{
+    width: 100vw;
+    height: 80vh;
+    background-color: red
+}
+
+.sectionmain1{
+    width: 100%;
+    background-color: rgb(74, 21, 75);
+    display: flex;
+    flex-direction: column;
+}
+
+.div1section1{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.h1section1{
+    width: 90%;
+    height: 6%;
+    display: flex;
+    justify-content: center;
+   
+}
+
+.h2section1{
+    width: 90%;
+    height: 6%;
+    display: flex;
+    justify-content: center;
+}
+
+.psection1{
+    width: 90%;
+    height: 7%;
+    display: flex;
+    justify-content: center;
+}
+
+.links{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.linkgoogle{
+    width: 100px;
+    height: 200px;
+    display: flex;
+   
+}
+
+.linkfacebook{
+    display: flex;
+    width: 250px;
+    height: 75px;
+}
+.imglinkgoogle{
+    width: 250px;
+    height: 55px;
+    margin-top: 20px;
+    margin-right: 20px;
+    
+}
+
+.imglinkfacebook{
+    width: 250px;
+    height: 55px;
+    margin-top: 20px;
+    margin-right: 3px;
+    background-color: rgb(1, 0, 0); 
+}
+.div2section2{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.imgsection1{
+    width: 500px;
+    height: 200px;
+    display: flex;
+}
+
